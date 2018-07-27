@@ -1,3 +1,3 @@
-# div-tamer-CSS 
+# Cloud9-clone
 
-It's a simple CSS framework I made for TOP's CSS course, includes normalize.css
+Cloud9 gaming site clone made with my own simple CSS framework, div-tamer-CSS, for TOP's CSS course
